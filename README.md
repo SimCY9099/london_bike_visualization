@@ -19,3 +19,5 @@
 
 ## License
 - These licence terms and conditions apply to TfL's free transport data service and are based on version 2.0 of the Open Government Licence with specific amendments for Transport for London (the "Licence"). TfL may at any time revise this Licence without notice. It is up to you ("You") to regularly review the Licence, which will be available on this website, in case there are any changes. Your continued use of the transport data feeds You have opted to receive ("Information") after a change has been made to the Licence will be treated as Your acceptance of that change.
+
+## PS: I didn't have a working email at the current moment so I can't post it on PowerBI service. Please download the london_bikeshare_viz.pbix to view and interact with the dashboard. Thank you.
